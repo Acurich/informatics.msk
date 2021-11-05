@@ -1,1 +1,1 @@
-# -informatics.msk
+Решение некоторых задач на https://informatics.msk.ru/
